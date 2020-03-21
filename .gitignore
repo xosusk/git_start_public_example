@@ -1,0 +1,9 @@
+# 환경 설정 파일
+.vscode
+venv_django_start
+
+# 바이너리
+*.pyc
+
+# 데이터
+*.sqlite3
